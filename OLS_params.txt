@@ -1,0 +1,11 @@
+--- 13575.193405 seconds ---
+      fun: 7.370564133189717
+ hess_inv: <3x3 LbfgsInvHessProduct with dtype=float64>
+      jac: array([-1.70352621e-04, -2.29150031e-05, -1.38733469e-04])
+  message: b'CONVERGENCE: REL_REDUCTION_OF_F_<=_FACTR*EPSMCH'
+     nfev: 208
+      nit: 33
+     njev: 52
+   status: 0
+  success: True
+        x: array([-0.05121472,  0.54680289,  0.25529896])
